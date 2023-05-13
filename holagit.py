@@ -1,2 +1,2 @@
-print"hola a todos"
+print" new hola a todos"
 
